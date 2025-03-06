@@ -30,3 +30,10 @@
 *.exe
 *.out
 *.app
+/.vs/DocstringGen
+/DocstringGen/x64/Debug
+/DocstringGenTests/x64/Debug/Docstrin.D28DB848.tlog
+/DocstringGenTests/x64/Debug
+/x64/Debug/DocstringGen.pdb
+/x64/Debug/DocstringGenTests.exp
+/x64/Debug/DocstringGenTests.pdb
